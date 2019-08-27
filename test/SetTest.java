@@ -58,6 +58,5 @@ public class SetTest {
 
         assertEquals(1, many.size());
         assertFalse(many.contains(1));
-        System.out.println(many.toString());
     }
 }
