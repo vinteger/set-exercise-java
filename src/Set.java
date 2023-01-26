@@ -1,3 +1,3 @@
-class Set {
+public class Set {
 
 }
